@@ -9,7 +9,6 @@ import com.laioffer.tinnews.model.Article;
 
 import java.util.List;
 
-
 @Dao
 public interface ArticleDao {
 

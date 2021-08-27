@@ -9,5 +9,6 @@ import com.laioffer.tinnews.model.Article;
 public abstract class TinNewsDatabase extends RoomDatabase {
 
     public abstract ArticleDao articleDao();
+
 }
 

@@ -51,5 +51,6 @@ public class Article implements Serializable {
                 ", urlToImage='" + urlToImage + '\'' +
                 '}';
     }
+
 }
 
